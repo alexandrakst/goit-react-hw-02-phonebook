@@ -4,7 +4,7 @@ export const Div = styled.div`
   border: 2px solid grey;
   border-radius: 5px;
   width: 300px;
-  padding: 30px;
+  padding: 20px;
   margin: 20px;
 `;
 
@@ -16,7 +16,7 @@ export const Label = styled.label`
 
 export const Input = styled.input`
   padding: 5px;
-  margin: 20px 0 20px 0;
+  margin: 15px 0 15px 0;
 `;
 
 export const Button = styled.button`
